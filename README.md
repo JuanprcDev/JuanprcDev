@@ -2,7 +2,7 @@
 
 ##
 
-<h3 align="center">📊 My GitHub Stats 📊</p></h3><br />
+<h3 align="center">📊 My GitHub Stats 📊</p></h3><br/>
 
 <div align="center">
   <a href="https://github.com/JuanprcDev">
@@ -10,9 +10,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanprcDev&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
- ## 
+## 
   
 <div align="center">
-  <h3>📬 How to reach me 📬</p></h3><br />
+  <h3>📬 How to reach me 📬</p></h3><br/>
   <a href = "mailto:ojuanpatrick@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
