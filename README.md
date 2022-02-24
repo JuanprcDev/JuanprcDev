@@ -2,9 +2,8 @@
 
 ##
 
-<h3 align="center">📊 My GitHub Stats 📊</p></h3><br/>
-
 <div align="center">
+  <h3>📊 My GitHub Stats 📊</p></h3><br/>
   <a href="https://github.com/JuanprcDev">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=JuanprcDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanprcDev&layout=compact&langs_count=10&theme=dark"/>
